@@ -282,7 +282,7 @@ MYSQL_CHARACTER_SETS = [
     ("utf8mb4", "utf8mb4_sinhala_ci", False),  # 243
     ("utf8mb4", "utf8mb4_german2_ci", False),  # 244
     ("utf8mb4", "utf8mb4_croatian_ci", False),  # 245
-    ("utf8mb4", "utf8mb4_unicode_520_ci", False),  # 246
+    ("utf8mb4", "utf8mb4_unicode_520_ci", True),  # 246
     ("utf8mb4", "utf8mb4_vietnamese_ci", False),  # 247
     ("gb18030", "gb18030_chinese_ci", True),  # 248
     ("gb18030", "gb18030_bin", False),  # 249
